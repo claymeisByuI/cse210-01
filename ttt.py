@@ -1,3 +1,7 @@
+# CSE210-01 Week 1 assignment
+# Tic Tac Toe
+# Created by: Clayton Meisman
+
 boardSize = 3
 player_txt = ['bad player','\x1b[35mX\x1b[0m',
               '\x1b[34mO\x1b[0m']
